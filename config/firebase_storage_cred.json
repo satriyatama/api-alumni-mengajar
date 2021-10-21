@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-alumni-mengajar",
+  "private_keyid": "a02cec20404dacd6114d5dcc1a515aa101e73548",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4heMqbPBQ6RlT\n8Ibxj2EyhdCcJGJL3dz5h9nSBIzk5QbRfv/gbgMcaC9cKvrowxQbijZFEREnncHs\nddQ2Mi7wD9FyI1dBe+I+ujmCN9vAu3FZMH0YiLKdDs7RIMw94ebWqNCKoHYZSMt4\nO/C5sp9tnXj0EtB74I3WWBgH3+WYe5l12ODoTpalm1SR92GZ2U0x5uYxwjFNE2Tn\nRUWu6m4Kp3Oe+CZcGx46qLISsPuN3+TfnwBB7yUxhqH0RTZCWwTRy6b5luFzvjZ9\ntqeR9cnFlc1OSvp78I/8BRbe5UxB7j6tAaJKpbGG3DXZI3LUG6lWLMgJJRy8Wero\nEALR7MQlAgMBAAECggEABYKR/wFTx8a+J+CF1w7GA0E1soPvn35Xi+f/nCLgpjEk\nm/rj3yrJ0v5Vc7Yg2fSBVDUzW6qfzYQLd2kpVhj3h9mhEnx1rZHqdp8O+pF6cW3n\ne5dUFPh4BPKdQGdvUeW+A+j0mT8jZ6vhz4xSqujnk9lg9EDfkuNouN7WkN2huITj\nUBOkgWM5j3Cqk66+h4cBS/4T8Z/MvBxKUWl0xetWWVDwSO2MiQnGsJGVQvGeey8N\nLX81ThDhvNzmT/pvDEyN9pEX5NxBhaprlPeRVSsnMNVtUbGGfaBgobfbcslnmbbK\n2vhCEWr3yQEgBOMePaan2e6FosoFmVgZpYOG+tWm/QKBgQDsyD5qnA/L2ltmOmBm\nBl8Pf9fG4EOY+qlcOu29qaMcumIgJxy0y7UnqyN7y/0sYLg22fKoH6mV9n2FNtMW\nvTHJP0PnpYVtl4I49jaRbeuwzLMQTcGgqmhmNVENUMvX1OgvL9OjsuaowAcsN7bW\nN271oGyB9EC7o1NV/rsnrnExWwKBgQDHf9Mol13uri4B6xqu4msW+bH+AAgpqpQZ\ndMayncqeRtCQDURLa7rlYQvXG0nLq5S65p7EBK8FIEQ3cRWioRN7yRJZK38ned7z\nRneLYhygO+ljxbD2gw/ILXU5vZqEG5tftUiLY62cEz0HzC6XBGwlTyUvzYNlf1xD\n27RI18pYfwKBgHQcCYdruc9D5zfs/mJpU2odTalHRb6ZhD0m5Hfx3Ht05jNQGqKJ\nle663C6TrDV7xDmZjIVm6VkRQyH07XQkGGrQLDNGlnRULFZUXhPYbBAJgPFIv99S\nUNl14aX+7caLr8Ob11NZogQ0DhBfzbej/TRTk4HyTV/1yiLMQ+hEgVsrAoGBAKgT\nSyVRkXO7D0vSdWKNo0dyCsFB6Z6g9bEUrypgwgnjA2e5paYdFxKVVlJdzShoYB+u\nmGfwwjuBWbeT8HRZXH7XgjvZ54CsrmcrISAvAosErra+IT8uYCd4FOEWmo1ebOKP\napT035k0pCBjp4TX1vz/1waVEHR8fpE1EoikNPelAoGAXXAce1fHDZTA0UfS5JO8\n1Gre3A7M+WlV/C/bzTPlBrRbTKOEROZmgl4bnPkE16qv4p6h4hOFLWWptxVByQkb\nvnJqcTEKBUrLzYK0pf13m2uMhA6kKRD/1jVazXd7Kbz0syQadld59EptdJOIr1HI\nwHSrR4MmEi3vdGhgL7itJCM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-tqzn2@api-alumni-mengajar.iam.gserviceaccount.com",
+  "client_id": "100304601514498442956",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-tqzn2%40api-alumni-mengajar.iam.gserviceaccount.com"
+}
